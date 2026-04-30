@@ -87,9 +87,9 @@ public class Jereiner extends BackendDeveloper {
 |-------------|------------|------|
 | 🏛️ **Harvard University** | CS50's Introduction to Programming with Python | 2026 |
 | 🎓 **Universidad Pascual Bravo** | Software Engineering (In Progress) | 2025 → |
-| 🇪🇸 **Universidad Libre de España** | Software Development Certificate | — |
-| 🛠️ **SENA / Technical Institute** | Técnico en Herramientas de Codificación de Software | — |
-| 🏫 **I.E. Pablo VI** | Bachiller Académico | — |
+| 🇪🇸 **Universidad Libre de España** | Software Development Certificate | 2024 |
+| 🛠️ **Universidad Catolica Del Oriente / Technical Institute** | Técnico en Herramientas de Codificación de Software | 2024 |
+| 🏫 **I.E. Pablo VI** | Bachiller Académico | 2025 |
 
 ---
 
