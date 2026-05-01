@@ -80,6 +80,18 @@ public class Jereiner extends BackendDeveloper {
 - Focused on API design, data consistency, and backend architecture
 
 ---
+## 🚀 Portfolio Projects
+
+### 🔐 Auth API — Spring Boot + JWT + PostgreSQL
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.5-6DB33F?style=flat-square&logo=spring-boot)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+Production-ready REST API with JWT authentication, role-based access control (USER/ADMIN), BCrypt encryption and Swagger documentation.
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jereinerortega2p13-netizen/auth-api)
+
+---
 
 ## 🎓 Education & Certifications
 
