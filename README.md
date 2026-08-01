@@ -1,13 +1,4 @@
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║          JEREINER CASTIBLANCO CALDERON                       ║
-║          Backend Developer  ·  Medellín, Colombia 🇨🇴        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Python;Building+scalable+systems+since+age+12;CS50+Harvard+Certified+%7C+ERP+Builder;Software+Engineering+Student+%40+Pascual+Bravo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Python;Building+scalable+systems+since+age+12;CS50+Harvard+Certified+%7C+Algo+Trading+Dev;Software+Engineering+Student+%40+Jaime+Isaza+Cadavid" alt="Typing SVG" />
 
 </div>
 
@@ -41,6 +32,7 @@ public class Jereiner extends BackendDeveloper {
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -51,6 +43,7 @@ public class Jereiner extends BackendDeveloper {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NinjaTrader](https://img.shields.io/badge/NinjaTrader_8-1B1F23?style=for-the-badge&logo=tradingview&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,6 +56,14 @@ public class Jereiner extends BackendDeveloper {
 ---
 
 ## 💼 Work Experience
+
+### 📈 Software Developer — Quantitative Trading Algorithm
+**Independent Contractor — Medellín, Colombia** · 2025 — 2026 (1 year)
+- Designed, coded and validated the **"HullEmaStrategy"** algorithm in **C# (NinjaScript)** for the **NinjaTrader 8** platform
+- Built a trend-continuation system based on the **Hull Suite (EHMA)** and a **200-period EMA**
+- Implemented session filters for the **London, New York and Asia** markets
+- Developed dynamic **swing-based stop loss** management and automated **break-even** logic
+- Automated **position sizing** based on percentage risk over capital
 
 ### 🏢 ERP System Developer
 **Honduras — Backend Engineering**
@@ -80,6 +81,7 @@ public class Jereiner extends BackendDeveloper {
 - Focused on API design, data consistency, and backend architecture
 
 ---
+
 ## 🚀 Portfolio Projects
 
 ### 🔐 Auth API — Spring Boot + JWT + PostgreSQL
@@ -97,10 +99,10 @@ Production-ready REST API with JWT authentication, role-based access control (US
 
 | Institution | Credential | Year |
 |-------------|------------|------|
+| 🎓 **Universidad Jaime Isaza Cadavid** | Ingeniería Informática (In Progress) | 2025 → |
 | 🏛️ **Harvard University** | CS50's Introduction to Programming with Python | 2026 |
-| 🎓 **Universidad Pascual Bravo** | Software Engineering (In Progress) | 2026 → |
 | 🇪🇸 **Universidad Libre de España** | Software Development Certificate | 2024 |
-| 🛠️ **Universidad Catolica Del Oriente / Technical Institute** | Técnico en Herramientas de Codificación de Software | 2024 |
+| 🛠️ **Universidad Católica del Oriente** | Técnico en Herramientas de Codificación de Software | 2024 |
 | 🏫 **I.E. Pablo VI** | Bachiller Académico | 2025 |
 
 ---
@@ -145,11 +147,3 @@ Production-ready REST API with JWT authentication, role-based access control (US
 ---
 
 <div align="center">
-
-```
-Open to Backend Developer roles · Remote or Medellín, Colombia
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=jereinerortega2p13-netizen&color=2ecc71&style=flat-square&label=Profile+Views)
-
-</div>
